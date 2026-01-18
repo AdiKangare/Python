@@ -1,0 +1,6 @@
+a=str(input("Enter Your Name: "))
+b=int(input("Enter Your Age: "))
+c=str(input("Enter Your Education: "))
+
+
+print(a,"\n",b,"\n",c,end="")
